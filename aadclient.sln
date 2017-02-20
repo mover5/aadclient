@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aadclient.console", "aadclient.console\aadclient.console.csproj", "{6BC6810B-DB59-427F-9684-FEC292BE5BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aadclient.authentication", "aadclient.authentication\aadclient.authentication.csproj", "{CDBBAD2A-23D9-494F-8732-B164FAD05BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC6810B-DB59-427F-9684-FEC292BE5BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC6810B-DB59-427F-9684-FEC292BE5BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC6810B-DB59-427F-9684-FEC292BE5BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC6810B-DB59-427F-9684-FEC292BE5BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBBAD2A-23D9-494F-8732-B164FAD05BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBBAD2A-23D9-494F-8732-B164FAD05BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBBAD2A-23D9-494F-8732-B164FAD05BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBBAD2A-23D9-494F-8732-B164FAD05BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
